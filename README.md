@@ -7,7 +7,7 @@
 ![tqdm](https://img.shields.io/badge/tqdm-4.67.0-lightgrey)
 ![nltk](https://img.shields.io/badge/nltk-3.9.1-brightgreen)
 
-**Versión:** 0.1.0  
+**Versión:** 0.0.1
 **Autor:** [Analitica Subdirección de Gestión de información](mailto:czaineam@unidadbusqueda.gov.co)  
 
 ## Descripción
