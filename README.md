@@ -8,7 +8,7 @@
 ![nltk](https://img.shields.io/badge/nltk-3.9.1-brightgreen)
 
 **Versión:** 0.1.0  
-**Autor:** [izainea](mailto:cizaineam@gmail.com)  
+**Autor:** [Analitica Subdirección de Gestión de información](mailto:cizaineam@gmail.com)  
 
 ## Descripción
 Este proyecto forma parte de una **masterclass de Python** diseñada para la **Unidad de Búsqueda de Personas Dadas por Desaparecidas (UBPD)**. La capacitación muestra cómo usar Python para realizar consultas y analizar un dataset de testimonios sintéticos en el contexto de investigaciones sensibles y de valor social.
