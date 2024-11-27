@@ -4,7 +4,6 @@
 ![pandas](https://img.shields.io/badge/pandas-2.2.3-orange)
 ![openai](https://img.shields.io/badge/openai-1.54.4-blueviolet)
 ![faker](https://img.shields.io/badge/faker-32.1.0-yellowgreen)
-![tqdm](https://img.shields.io/badge/tqdm-4.67.0-lightgrey)
 ![nltk](https://img.shields.io/badge/nltk-3.9.1-brightgreen)
 
 **Versión:** 0.0.1   
